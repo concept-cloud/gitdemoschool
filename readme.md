@@ -9,3 +9,8 @@
 
 1. [ ] Push to dev
 2. [ ] merge
+3. [x] add branch git checkout -b ne branch
+
+# Features Branch 
+
+1. [ ] added in new branch via code
